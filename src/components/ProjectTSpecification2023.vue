@@ -45,7 +45,7 @@ const closeModal = () => {
 .t__specification2023__image {
     width: 300px;
     height: 250px;
-    margin-left: 235px;
+    margin-left: 275px;
     margin-bottom: 25px;
 }
 
